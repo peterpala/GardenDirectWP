@@ -1,0 +1,20 @@
+
+[{shop_url}] 
+
+Your message to {shop_name} Customer Service 
+
+Your message has been sent successfully.
+
+OBSAH SPRÁVY: {message}
+
+ČÍSLO OBJEDNÁVKY: {order_name}
+
+PRODUKT: {product_name}
+
+PRÍLOHA: {attached_file} 		 
+
+We will answer as soon as possible. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

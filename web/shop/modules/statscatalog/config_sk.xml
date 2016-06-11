@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statscatalog</name>
+	<displayName><![CDATA[&Scaron;tatistiky katal&oacute;gu]]></displayName>
+	<version><![CDATA[1.3.0]]></version>
+	<description><![CDATA[Prid&aacute; z&aacute;ložku obsahuj&uacute;cu hlavn&eacute; &scaron;tatistiky o va&scaron;om obchode do &scaron;tatist&iacute;k.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
